@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/JavaApplication12/nbproject/private/
+/JavaApplication12/build/
+/GUIAutomatica/nbproject/private/
+/GUIAutomatica/build/
+/GUIAutomatica2/nbproject/private/
+/GUIAutomatica2/build/
+/GUIAutomatica3/nbproject/private/
+/MiniEncuesta/nbproject/private/
+/MiniEncuesta/build/
+/GUIAutomatica4/nbproject/private/
